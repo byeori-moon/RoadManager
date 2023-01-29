@@ -1,0 +1,526 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJzzlcLQGifDURm_JbQKHsEX4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJR4ITliVveTURQmG3LJD9N30",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 37.566535,
+               "lng" : 126.9779692
+            },
+            "southwest" : {
+               "lat" : 37.44747,
+               "lng" : 126.452461
+            }
+         },
+         "copyrights" : "Map data ©2022 TMap Mobility",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "6:55pm",
+                  "time_zone" : "Asia/Seoul",
+                  "value" : 1654595700
+               },
+               "departure_time" : {
+                  "text" : "5:57pm",
+                  "time_zone" : "Asia/Seoul",
+                  "value" : 1654592246
+               },
+               "distance" : {
+                  "text" : "48.8 km",
+                  "value" : 48798
+               },
+               "duration" : {
+                  "text" : "58 mins",
+                  "value" : 3454
+               },
+               "end_address" : "Incheon, South Korea",
+               "end_location" : {
+                  "lat" : 37.44747,
+                  "lng" : 126.452461
+               },
+               "start_address" : "Seoul, South Korea",
+               "start_location" : {
+                  "lat" : 37.566535,
+                  "lng" : 126.9779692
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 154
+                     },
+                     "end_location" : {
+                        "lat" : 37.565366,
+                        "lng" : 126.97714
+                     },
+                     "html_instructions" : "Walk to City Hall",
+                     "polyline" : {
+                        "points" : "{ehdFik_fWnAxAxCjA"
+                     },
+                     "start_location" : {
+                        "lat" : 37.566535,
+                        "lng" : 126.9779692
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "59 m",
+                              "value" : 59
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 60
+                           },
+                           "end_location" : {
+                              "lat" : 37.566138,
+                              "lng" : 126.977519
+                           },
+                           "polyline" : {
+                              "points" : "{ehdFik_fWnAxA"
+                           },
+                           "start_location" : {
+                              "lat" : 37.566535,
+                              "lng" : 126.9779692
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 84
+                           },
+                           "end_location" : {
+                              "lat" : 37.566138,
+                              "lng" : 126.977519
+                           },
+                           "html_instructions" : "Take entrance \u003cspan class=\"location\"\u003e5\u003c/span\u003e",
+                           "polyline" : {
+                              "points" : "kchdFoh_fW"
+                           },
+                           "start_location" : {
+                              "lat" : 37.566138,
+                              "lng" : 126.977519
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 0
+                           },
+                           "end_location" : {
+                              "lat" : 37.566138,
+                              "lng" : 126.977519
+                           },
+                           "polyline" : {
+                              "points" : "kchdFoh_fW"
+                           },
+                           "start_location" : {
+                              "lat" : 37.566138,
+                              "lng" : 126.977519
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 0
+                           },
+                           "end_location" : {
+                              "lat" : 37.566138,
+                              "lng" : 126.977519
+                           },
+                           "polyline" : {
+                              "points" : "kchdFoh_fW"
+                           },
+                           "start_location" : {
+                              "lat" : 37.566138,
+                              "lng" : 126.977519
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "92 m",
+                              "value" : 92
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 10
+                           },
+                           "end_location" : {
+                              "lat" : 37.565366,
+                              "lng" : 126.97714
+                           },
+                           "polyline" : {
+                              "points" : "kchdFoh_fWxCjA"
+                           },
+                           "start_location" : {
+                              "lat" : 37.566138,
+                              "lng" : 126.977519
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1149
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : 37.555946,
+                        "lng" : 126.972317
+                     },
+                     "html_instructions" : "Subway towards 161",
+                     "polyline" : {
+                        "points" : "q~gdFcf_fW@?V?j@?f@Fn@Fn@LxFzA`IvBvA\\v@ZdAb@z@j@|@n@tBfB|BpBvAjAlBbB~@~@x@T`Dj@j@J"
+                     },
+                     "start_location" : {
+                        "lat" : 37.565366,
+                        "lng" : 126.97714
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "name" : "Seoul Station (Subway)"
+                        },
+                        "arrival_time" : {
+                           "text" : "6:02pm",
+                           "time_zone" : "Asia/Seoul",
+                           "value" : 1654592520
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 37.565366,
+                              "lng" : 126.97714
+                           },
+                           "name" : "City Hall"
+                        },
+                        "departure_time" : {
+                           "text" : "6:00pm",
+                           "time_zone" : "Asia/Seoul",
+                           "value" : 1654592400
+                        },
+                        "headsign" : "161",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Seoul Metro",
+                                 "url" : "http://www.seoulmetro.co.kr/"
+                              }
+                           ],
+                           "color" : "#4574f2",
+                           "name" : "Line 1",
+                           "short_name" : "1",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                              "name" : "Subway",
+                              "type" : "SUBWAY"
+                           }
+                        },
+                        "num_stops" : 1
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 37.555946,
+                        "lng" : 126.972317
+                     },
+                     "html_instructions" : "Walk to Seoul Station (Subway)",
+                     "polyline" : {
+                        "points" : "ucfdF_h~eWaAb@`Ac@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.555946,
+                        "lng" : 126.972317
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 11
+                           },
+                           "end_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "polyline" : {
+                              "points" : "ucfdF_h~eW"
+                           },
+                           "start_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 0
+                           },
+                           "end_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "polyline" : {
+                              "points" : "ucfdF_h~eW"
+                           },
+                           "start_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 11
+                           },
+                           "end_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "polyline" : {
+                              "points" : "ucfdF_h~eW"
+                           },
+                           "start_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 11
+                           },
+                           "end_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "polyline" : {
+                              "points" : "ucfdF_h~eW"
+                           },
+                           "start_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "1 m",
+                              "value" : 0
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 0
+                           },
+                           "end_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "polyline" : {
+                              "points" : "ucfdF_h~eW"
+                           },
+                           "start_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "40 m",
+                              "value" : 40
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 50
+                           },
+                           "end_location" : {
+                              "lat" : 37.55628,
+                              "lng" : 126.972137
+                           },
+                           "html_instructions" : "Take exit \u003cspan class=\"location\"\u003e2\u003c/span\u003e",
+                           "polyline" : {
+                              "points" : "ucfdF_h~eWaAb@"
+                           },
+                           "start_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "40 m",
+                              "value" : 40
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 40
+                           },
+                           "end_location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "polyline" : {
+                              "points" : "wefdF{f~eW`Ac@"
+                           },
+                           "start_location" : {
+                              "lat" : 37.55628,
+                              "lng" : 126.972137
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47.4 km",
+                        "value" : 47418
+                     },
+                     "duration" : {
+                        "text" : "45 mins",
+                        "value" : 2700
+                     },
+                     "end_location" : {
+                        "lat" : 37.44747,
+                        "lng" : 126.452461
+                     },
+                     "html_instructions" : "Subway towards 4013",
+                     "polyline" : {
+                        "points" : "ucfdF_h~eW~dTbpdB"
+                     },
+                     "start_location" : {
+                        "lat" : 37.555946,
+                        "lng" : 126.972317
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 37.44747,
+                              "lng" : 126.452461
+                           },
+                           "name" : "-"
+                        },
+                        "arrival_time" : {
+                           "text" : "6:55pm",
+                           "time_zone" : "Asia/Seoul",
+                           "value" : 1654595700
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 37.555946,
+                              "lng" : 126.972317
+                           },
+                           "name" : "Seoul Station (Subway)"
+                        },
+                        "departure_time" : {
+                           "text" : "6:10pm",
+                           "time_zone" : "Asia/Seoul",
+                           "value" : 1654593000
+                        },
+                        "headsign" : "4013",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "공항철도",
+                                 "url" : "http://www.odsay.com/Subway/LineInfo.asp?CID=1000&LMenu=2/"
+                              }
+                           ],
+                           "color" : "#1e8fc6",
+                           "name" : "수도권전철",
+                           "short_name" : "공항철도",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                              "name" : "Subway",
+                              "type" : "SUBWAY"
+                           }
+                        },
+                        "num_stops" : 1
+                     },
+                     "travel_mode" : "TRANSIT"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{ehdFik_fWnAxAxCjA@?bA?vANhHhBxKtC|B~@xBzAxLhK~@~@x@TlEv@aAb@`Ac@~dTbpdB"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
